@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1764516399 source:c:\users\robert\desktop\full-stack\udemy\algoritimos e lógica de programação\c++\progs\mini market 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
